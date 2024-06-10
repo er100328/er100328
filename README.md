@@ -4,6 +4,8 @@
 - Sou aluno da escola Pedrina;
 - este é um perfil para trabalhos escolares.
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=er100328&show_icons=true&theme=radical)
+
  ### vocë pode falar por comigo email
 
 - ericcugik@gmail.com
